@@ -1,11 +1,9 @@
 #!/usr/bin/env bash
 # Bash script that displays To infinity and beyond indefinitely.
 
-n=i
-while [$n]
+while :
    do 
       echo 'To infinity and beyond'
       sleep 2
-      ((n++))
        
    done
