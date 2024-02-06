@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # manage files
 while [[1 -eq 1]]; do
-       echo "I am alive!" >> /tmp/my_process
+       echo "Ian alive!" >> /tmp/my_process
        sleep 2
 done
 
